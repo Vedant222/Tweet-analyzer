@@ -1,1 +1,3 @@
-# twitter-analyzer
+ Profanity Checker for Twitter Tweets
+
+ The Profanity Checker for Twitter Tweets is a program that analyzes a file of Twitter tweets and calculates the degree of profanity for each tweet based on a set of predefined racial slurs. The program reads in the file of tweets, splits each tweet into words, and compares them with a list of profanity words. The program then counts the number of racial slurs in each tweet and calculates the degree of profanity as a percentage of the total words. The program outputs the degree of profanity for each tweet, allowing the user to quickly identify and filter out any inappropriate content. This program can be useful for social media managers, content moderators, or anyone who needs to analyze and monitor a large number of Twitter tweets for profanity. The program is written in Python and can be easily customized to include additional profanity words or to work with different types of text files.
